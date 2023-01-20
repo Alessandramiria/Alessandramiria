@@ -1,10 +1,10 @@
 ### Olá eu sou a Alê 👋
 
 
-- 🔭 Atualmente procuro um estagio.
-- 🌱 Estou aprendendo JavaScript e outras linguagens 
-- 😄 Ela/dela 
-- ⚡ Sou legal
+- 🔭 Currently looking for an internship.
+- 🌱 I'm learning JavaScript and other languages
+- 😄 She / Her
+- ⚡ I'm cool
 
 <div>
   <a href="https://github.com/Alessandramiria">
