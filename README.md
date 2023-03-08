@@ -3,7 +3,7 @@
 
 - 🔭 Currently looking for an internship.
 - 🌱 I'm learning JavaScript and other languages
-- 😄 She / Her
+- 😄 Devops Architecture
 - ⚡ I'm cool
 
 <div>
