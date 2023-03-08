@@ -1,9 +1,9 @@
 ### Olá eu sou a Alê 👋
 
 
-- 🔭 Currently looking for an internship.
-- 🌱 I'm learning JavaScript and other languages
-- 😄 Devops Architecture
+- 🔭 Devops Architecture
+- 🌱 Work with Java and other languages
+- 😄 I work with IT processes
 - ⚡ I'm cool
 
 <div>
