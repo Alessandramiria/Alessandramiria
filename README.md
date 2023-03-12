@@ -1,10 +1,10 @@
 ### Hi I'm Alessa 👋
 
 
-🔭 Devops Architecture
-🌱 I code with Java and other languages
-😄 IT processes
-⚡ I'm cool
+- 🔭 Devops Architecture
+- 🌱 I code with Java and other languages
+- 😄 IT processes
+- ⚡ I'm cool
 
 <div>
   <a href="https://github.com/Alessandramiria">
