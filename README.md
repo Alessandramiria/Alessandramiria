@@ -1,7 +1,7 @@
 ### Hi I'm Alessa 👋
 
 
-- 🔭 Devops Architecture
+- 🔭 Devops Develop
 - 🌱 I code with Java and other languages
 - 😄 IT processes
 - ⚡ I'm cool
